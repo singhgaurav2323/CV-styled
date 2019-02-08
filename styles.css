@@ -8,7 +8,7 @@ h1{
 }
 
 .top-container{position: relative;
-    padding-top :170px;
+    padding-top :100px;
     background-color: #E4F9F5;
     font-family:cursive;
 }
@@ -20,7 +20,7 @@ h1{
 .img2{
     position: absolute;
     right:400px;
-    top:100px;
+    top:30px;
 }
 .img1{
     position: absolute;
@@ -29,6 +29,10 @@ h1{
 }
 .middle-container{
     margin-top: 90px;
+}
+
+a{
+    text-decoration: none;
 }
 #profile{
     top:200px;
@@ -79,4 +83,24 @@ h1{
 }
 .skill-row{
     margin:35px 35px;
+}
+.header{
+    background-color:#E4F9F5;
+    padding-left: 70%;
+    padding-top: 2%;
+    font-size: 120%;
+    font-family:cursive;
+}
+span{
+    margin:0 0 0 2em;
+}
+.header1{
+    background-color: #E4F9F5;
+    padding-right: 70%;
+    padding-top: 10%;
+}
+#head{
+    position: fixed;
+    width: 6%;
+    height: 12%;
 }
